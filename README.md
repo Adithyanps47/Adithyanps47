@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Mobile App Developer** focused on building accessible, user-centric applications. My expertise lies in native **Android development (Java/XML)**, and I am currently expanding my skillset into cross-platform development with **Flutter**.
+I am a passionate **Software Developer** focused on building accessible, user-centric applications. My expertise lies in native **Android development (Java/XML)**, and I am currently expanding my skillset into cross-platform development with **Flutter**.
 
 - 🔭 I’m currently working on **Cross-platform mobile apps using Flutter**
 - 🏆 **Recent Achievement:** State-level Winner at **Young Innovators Program (YIP - KDISC)**
