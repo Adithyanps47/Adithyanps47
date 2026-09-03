@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>Integrated MCA Student @ Amrita Vishwa Vidyapeetham | Android Developer 📱</em>
+  <em>Integrated MCA Student @ Amrita Vishwa Vidyapeetham | Aspiring Software Developer 📱</em>
 </p>
 
 ---
